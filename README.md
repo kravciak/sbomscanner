@@ -42,3 +42,4 @@ Get in touch with us on Slack: join the [`kubewarden` channel](https://kubernete
 # Credits
 
 The storage API server is based on the [Kubernetes sample-apiserver](https://github.com/kubernetes/sample-apiserver) project.
+Thu 15 Jan 13:44:55 CET 2026
